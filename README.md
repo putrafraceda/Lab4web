@@ -16,11 +16,9 @@
 # 4. Kemudian Tambahkan element div lainnya seteleah div3
 - Gambar1
   ![img 6](Screenshot/6.png)
-- Gambar2
- ![img 7](Screenshot/7.png)
 # 5. Kemudian atur property clear pada CSS
 - Gambar1
-  ![img 8](Screenshot/8.png)
+  ![img 8](Screenshot/7.png)
 - Gambar2
   ![img 9](Screenshot/9.png)
 # 6. mengatur margin dan padding pada cel data
