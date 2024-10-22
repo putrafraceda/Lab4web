@@ -5,29 +5,24 @@
 ## 1. Persiapan membuat dokumen HTML.
 - Gambar1
   ![img 1](Screenshot/1.png)
-# 2. Kemudian tambahkan kode untuk membuat Ordered List
+# 2. Kemudian tambahkan kode untuk membuat Box Element
 - Gambar1
   ![img 3](Screenshot/2.png)
-- Gambar2
-  ![img 3](Screenshot/3.png)
-# 3.Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada
-section unordered-list,
+# 3.Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element
 - Gambar1
   ![img 4](Screenshot/4.png)
 - Gambar2
   ![img 5](Screenshot/5.png)
-# 4. Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+# 4. Kemudian Tambahkan element div lainnya seteleah div3
 - Gambar1
   ![img 6](Screenshot/6.png)
 - Gambar2
  ![img 7](Screenshot/7.png)
-# 5. Buat file baru dengan nama lab3_tabel.html
+# 5. Kemudian atur property clear pada CSS
 - Gambar1
   ![img 8](Screenshot/8.png)
 - Gambar2
   ![img 9](Screenshot/9.png)
-- Gambar Result
-  ![img 9](Screenshot/10.png)
 # 6. mengatur margin dan padding pada cel data
 - Gambar1
   ![img 10](Screenshot/11.png)
