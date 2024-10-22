@@ -82,4 +82,18 @@
   ![img 31](Screenshot/31.png)
 - Gambar2
   ![img 32](Screenshot/32.png)
+## PERTANYAAN DAN JAWABANNYA
+# Pertanyaan dan Tugas
 
+#1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
+#2. Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dl
+#Jawaban 1
+- Gambar1
+  ![img 33](Screenshot/33.png)
+- Gambar2
+  ![img 34](Screenshot/34.png)
+#Jawaban 2
+- Gambar1
+  ![img 35](Screenshot/35.png)
+- Gambar2
+  ![img 36](Screenshot/36.png)
